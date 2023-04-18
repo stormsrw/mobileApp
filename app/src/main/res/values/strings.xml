@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">MobileAppsProject</string>
+    <string name="StartedTitle">Hello You!</string>
+    <string name="startedSubTitle">
+
+        <br><b>Login</b> If you already have an account.</br>
+        <br><b>Register</b> to get started.</br>
+    </string>
+    <string name="regsiterBtn"> Register </string>
+    <string name="loginBtn"> Login </string>
+    <string name="loginTitle">Login to App</string>
+    <string name="loginSubTitle">
+        Login
+        <br>If You Already Have An Account.</br>
+    </string>
+    <string name="LoginHint">Your Email Or UserName.</string>
+    <string name="passwordHint">Your Password</string>
+    <string name="loginForgot">Forgot Your Password?</string>
+    <string name="noAccount">
+        Don\'t Have An Account?
+        <b>Register</b>
+    </string>
+    <string name="newAccount">Create a New Account</string>
+    <string name="registerSubTitle">
+    Register
+    <br>To Get Started.</br>
+    </string>
+    <string name="fullname">Your Full Name</string>
+    <string name="emailRegister">Your Email</string>
+    <string name="usernameRegister">Your Username</string>
+    <string name="paswordRegister">Your Password</string>
+    <string name="confirmPasswordRegister">Confirm Password</string>
+    <string name="haveAccount">
+    I Have An Account.
+    <b>Login</b>
+    </string>
+    <string name="logout">Logout</string>
+
+
 </resources>

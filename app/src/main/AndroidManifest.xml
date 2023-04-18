@@ -12,6 +12,15 @@
         android:theme="@style/Theme.MobileAppsProject"
         tools:targetApi="31">
         <activity
+            android:name=".homeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".registerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
