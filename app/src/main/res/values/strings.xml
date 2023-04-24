@@ -13,7 +13,7 @@
         Login
         <br>If You Already Have An Account.</br>
     </string>
-    <string name="LoginHint">Your Email Or UserName.</string>
+    <string name="LoginHint">Your Email.</string>
     <string name="passwordHint">Your Password</string>
     <string name="loginForgot">Forgot Your Password?</string>
     <string name="noAccount">
